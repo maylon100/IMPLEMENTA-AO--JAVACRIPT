@@ -4,8 +4,11 @@ h1{
     font-family: "Honk", system-ui;
 }
 body{
-    background-color:rgb(147, 156, 27);
+    background-color:rgb(123, 107, 225);
    text-align: center;
    color: cornflowerblue;
+}
 
+h1 span{
+    color: aquamarine;
 }

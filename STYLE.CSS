@@ -3,3 +3,9 @@
 h1{
     font-family: "Honk", system-ui;
 }
+body{
+    background-color: color-mix(in srgb, color 
+    percentage, color percentage);
+   text-align: center;
+
+}
